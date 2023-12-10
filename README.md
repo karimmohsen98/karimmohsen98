@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: <img src="https://discordapp.com/api/guilds/[SERVER ID]/widget.png?style=banner2" alt="Discord Banner 2"/>
-
+- 📫 How to reach me on discord : razer_dazer
 <!--
 **karimmohsen98/karimmohsen98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
