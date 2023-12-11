@@ -1,6 +1,5 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C++
-- 📫 How to reach me on discord : razer_dazer
 <h3 align="center">Technologies I've worked with</h3>
 <div align="center"
 <p>
@@ -21,10 +20,11 @@
     <img alt="Prometheus" src="https://img.shields.io/badge/prometheus-0?style=for-the-badge&logo=prometheus&logoColor=white&labelColor=%23E6522C&color=%23E6522C">
     <img alt="SonarQube" src="https://img.shields.io/badge/sonarqube-0?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=%234E9BCD&color=%234E9BCD">
     <img alt="SonaType" src="https://img.shields.io/badge/sonatype-0?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=%231B1C30&color=%231B1C30">
-
-
-
-
-
 </p>
+<h3 align="center">Where you can find me</h3>
+<img alt="Static Badge" src="https://img.shields.io/badge/steam_profile-black?style=for-the-badge&logo=steam&logoColor=white&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Frazer_dazer%2F&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Frazer_dazer%2F">
+
+
+
+
 </div>
