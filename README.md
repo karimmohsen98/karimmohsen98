@@ -22,7 +22,9 @@
     <img alt="SonaType" src="https://img.shields.io/badge/sonatype-0?style=for-the-badge&logo=sonarqube&logoColor=white&labelColor=%231B1C30&color=%231B1C30">
 </p>
 <h3 align="center">Where you can find me</h3>
-<img alt="Static Badge" src="https://img.shields.io/badge/steam_profile-black?style=for-the-badge&logo=steam&logoColor=white&labelColor=%23000000&color=%23000000&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Frazer_dazer%2F&link=https%3A%2F%2Fsteamcommunity.com%2Fid%2Frazer_dazer%2F">
+<a href="https://steamcommunity.com/id/razer_dazer/"><img alt="Static Badge" src="https://img.shields.io/badge/steam_profile-black?style=for-the-badge&logo=steam&logoColor=white&labelColor=%23000000&color=%23000000"></a>
+
+
 
 
 
