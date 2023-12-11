@@ -1,7 +1,7 @@
 <div align="center">
- <h3> Hello and Welcome Fellow Internet Surfer 👋 </h3>
-  <br>
-
+ <h3>Hello and Welcome Fellow Internet Surfer 👋 </h3>
+  <h3>The name is Karim Mohsen </h3>
+    <h3>Pleased to have you here </h3>
 </div>
 <div align="center">
 
