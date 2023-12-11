@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&labelColor=white" alt="Jenkins">
+  <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-0?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=red&color=red">
 </p>
 <p>
     <img src="https://img.shields.io/badge/SpringBoot-0?style=for-the-badge&logo=springboot&logoColor=white" alt="SpringBoot">
