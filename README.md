@@ -38,7 +38,18 @@
 
 </p>
 <h3 align="center">Where you can find me</h3>
-<a href="https://steamcommunity.com/id/razer_dazer/"><img alt="Static Badge" src="https://img.shields.io/badge/steam_profile-black?style=for-the-badge&logo=steam&logoColor=white&labelColor=%23000000&color=%23000000"></a>
+<a href="https://steamcommunity.com/id/razer_dazer/"><img alt="Static Badge" src="https://img.shields.io/badge/steam_profile-black?style=for-the-badge&logo=steam&logoColor=white&labelColor=%23000000&color=%23000000">
+
+</a>
+
+<p align='center'>
+ 
+ <h3> 💻 My workspace</h3>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/nvidia-mx%20350-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+</p>
 
 
 
