@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C++
 - 📫 How to reach me on discord : razer_dazer
-<h3 align="center">Languages I've worked with</h3>
+<h3 align="center">Technologies I've worked with</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
