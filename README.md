@@ -4,10 +4,9 @@
     <h3>Pleased to have you here </h3>
 </div>
 <div align="center">
-
   <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG82bWtwaWNlMXUxeGc3eWduYmQydmswYTFoNWhlcGF6NWk2eGx4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S93TO62iqW3KpUPCAA/giphy.gif" width="480" height="270"/>
-
 </div>
+<hr>
 <h3 align="center">Technologies I've worked with</h3>
 <div align="center"
 <p>
@@ -44,12 +43,15 @@
 
 <p align='center'>
  
- <h3> 💻 My workspace</h3>
+ <h3> 💻 My Workspace</h3>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-24GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-mx%20350-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+ <h3> 🔥 My Stats</h3>
+
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=karimmohsen98&theme=dark" alt="GitHub Streak" /></a>
 
 
 
