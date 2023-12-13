@@ -51,8 +51,7 @@
 </p>
  <h3> 🔥 My Stats</h3>
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=karimmohsen98&theme=dark" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=karimmohsen98&theme=dark" alt="GitHub Streak" /></a>
 
 
 
